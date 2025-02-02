@@ -26,9 +26,6 @@ Para uma demonstração completa do projeto, assista ao vídeo de apresentação
 - Placa BitDogLab
 - Simulador Wokwi
 
-## Como Contribuir
-Se desejar contribuir com o projeto, sinta-se à vontade para abrir issues e pull requests!
-
 ---
 
 **Autor:** Bruno Santos Costa
